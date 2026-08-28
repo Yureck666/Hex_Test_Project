@@ -1,0 +1,32 @@
+HEX PROJECT ASSET SETUP
+========================
+
+Для создания всех необходимых материалов и префабов:
+
+1. Откройте Unity проект
+2. В меню выберите: Tools > Hex > Setup All Assets
+
+Это создаст:
+
+МАТЕРИАЛЫ (Assets/Materials/):
+- Mat_White - белый
+- Mat_Blue - синий
+- Mat_LightBlue - голубой
+- Mat_Yellow - желтый
+- Mat_Red - красный
+- Mat_Purple - фиолетовый
+- Mat_Green - зеленый
+- Mat_Cell - серый для ячеек
+- Mat_CellHighlight - светящийся для подсветки
+
+ПРЕФАБЫ:
+- Assets/Prefabs/Gameplay/HexElement.prefab - элемент стека
+- Assets/Prefabs/Grid/HexCell.prefab - ячейка сетки с подсветкой
+- Assets/Prefabs/Gameplay/HexStack.prefab - контейнер стека
+
+Альтернативно можно создать отдельно:
+- Tools > Hex > Create Materials - только материалы
+- Tools > Hex > Create Prefabs - только префабы
+
+ВАЖНО: Скрипт безопасен для повторного запуска - существующие материалы
+будут обновлены, префабы пересозданы.

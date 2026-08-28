@@ -1,0 +1,144 @@
+# Unity Generated Directories
+Library/
+Temp/
+Obj/
+obj/
+Build/
+Builds/
+Logs/
+MemoryCaptures/
+.utmp/
+*_BackUpThisFolder_ButDontShipItWithYourGame/
+*_BurstDebugInformation_DoNotShip/
+
+# Build Outputs
+*.apk
+*.aab
+*.ipa
+*.exe
+*.app
+*.symbols.zip
+*_mapping.txt
+ServerData/
+
+# Unity Project Files (generated)
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.opendb
+*.VC.db
+
+# IDE Directories
+.vs/
+.vscode/
+.idea/
+.rider/
+.DS_Store
+desktop.ini
+Thumbs.db
+
+# Unity UserSettings (user-specific)
+UserSettings/
+ProjectSettings/GvhProjectSettings.xml
+
+# Packages (managed by Unity Package Manager)
+Packages/
+# Keep only the manifest
+!Packages/manifest.json
+!Packages/packages-lock.json
+
+# Addressables Build Data
+Assets/AddressableAssetsData/*/addressables_content_state.bin
+Assets/AddressableAssetsData/*/AddressablesLink/
+
+# Firebase & SDK Generated Files
+Assets/Firebase/Plugins/**/*.so
+Assets/Firebase/Plugins/**/*.bundle
+Assets/Plugins/Android/*.aar
+Assets/Plugins/iOS/*.framework
+*.androidlib/libs/
+crashlytics-build.properties
+
+# Generated Shader Variants
+Assets/**/*.shadervariants
+
+# Large Asset Files (textures, audio, models)
+*.png
+*.jpg
+*.jpeg
+*.tga
+*.psd
+*.psb
+*.exr
+*.mp3
+*.wav
+*.ogg
+*.mp4
+*.mov
+*.fbx
+*.obj
+*.blend
+*.ma
+*.mb
+*.max
+
+# Keep only meta files for assets
+!**/*.meta
+
+# Crash Dumps & Logs
+*.log
+hs_err_pid*.log
+mono_crash.*.json
+sysinfo.txt
+
+# Gradle
+.gradle/
+
+# Keystore & Sensitive Files
+*.keystore
+keystore_config.txt
+user.keystore
+remote_config_data
+
+# Other AI Tools
+.aider*
+*.aider.*
+.cursor/
+.continue/
+
+# Temporary Claude Files
+tmpclaude-*
+
+# Build Reports
+BuildReport/
+
+# Documentation (optional - uncomment if too large)
+# Docs/
+
+# Localization Tables (large binary data - keep source)
+Assets/Localization/Tables/*.asset
+
+# TextMesh Pro (keep source only)
+Assets/TextMesh\ Pro/Resources/Fonts\ &\ Materials/*.asset
+
+# Odin Inspector (generated)
+Assets/Plugins/Sirenix/Odin\ Inspector/Config/
+
+# Keep Important Files
+!CLAUDE.md
+!README.md
+!AGENTS.md
+!*.cs
+!*.shader
+!*.hlsl
+!*.cginc
+!*.json
+!*.yml
+!*.yaml

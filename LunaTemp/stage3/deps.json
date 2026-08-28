@@ -1,0 +1,82 @@
+{
+  "ignores": [
+    "C:/UnityProjects/Hex/LunaTemp/stage3/processed-scripts/Assets/Plugins/DOTween/Modules/DOTweenModuleAudio.cs",
+    "C:/UnityProjects/Hex/LunaTemp/stage3/processed-scripts/Assets/Plugins/DOTween/Modules/DOTweenModulePhysics.cs",
+    "C:/UnityProjects/Hex/LunaTemp/stage3/processed-scripts/Assets/Plugins/DOTween/Modules/DOTweenModulePhysics2D.cs",
+    "C:/UnityProjects/Hex/LunaTemp/stage3/processed-scripts/Assets/Plugins/DOTween/Modules/DOTweenModuleSprite.cs",
+    "C:/UnityProjects/Hex/LunaTemp/stage3/processed-scripts/Assets/Plugins/DOTween/Modules/DOTweenModuleUI.cs",
+    "C:/UnityProjects/Hex/LunaTemp/stage3/processed-scripts/Assets/Plugins/DOTween/Modules/DOTweenModuleUnityVersion.cs"
+  ],
+  "groups": [
+    [
+      "C:/UnityProjects/Hex/LunaTemp/stage3/processed-scripts/Assets/Epic Toon FX/Scripts/ETFXLightFade.cs"
+    ],
+    [
+      "C:/UnityProjects/Hex/LunaTemp/stage3/processed-scripts/Assets/Epic Toon FX/Scripts/ETFXPitchRandomizer.cs"
+    ],
+    [
+      "C:/UnityProjects/Hex/LunaTemp/stage3/processed-scripts/Assets/Epic Toon FX/Scripts/ETFXRotation.cs"
+    ],
+    [
+      "C:/UnityProjects/Hex/LunaTemp/stage3/processed-scripts/Assets/Plugins/DOTween/Modules/DOTweenModuleAudio.cs"
+    ],
+    [
+      "C:/UnityProjects/Hex/LunaTemp/stage3/processed-scripts/Assets/Plugins/DOTween/Modules/DOTweenModuleEPOOutline.cs"
+    ],
+    [
+      "C:/UnityProjects/Hex/LunaTemp/stage3/processed-scripts/Assets/Plugins/DOTween/Modules/DOTweenModulePhysics.cs"
+    ],
+    [
+      "C:/UnityProjects/Hex/LunaTemp/stage3/processed-scripts/Assets/Plugins/DOTween/Modules/DOTweenModulePhysics2D.cs"
+    ],
+    [
+      "C:/UnityProjects/Hex/LunaTemp/stage3/processed-scripts/Assets/Plugins/DOTween/Modules/DOTweenModuleSprite.cs"
+    ],
+    [
+      "C:/UnityProjects/Hex/LunaTemp/stage3/processed-scripts/Assets/Plugins/DOTween/Modules/DOTweenModuleUI.cs"
+    ],
+    [
+      "C:/UnityProjects/Hex/LunaTemp/stage3/processed-scripts/Assets/Plugins/DOTween/Modules/DOTweenModuleUnityVersion.cs"
+    ],
+    [
+      "C:/UnityProjects/Hex/LunaTemp/stage3/processed-scripts/Assets/Plugins/DOTween/Modules/DOTweenModuleUtils.cs"
+    ],
+    [
+      "C:/UnityProjects/Hex/LunaTemp/stage3/processed-scripts/Assets/Scripts/Components/DisappearParticle.cs",
+      "C:/UnityProjects/Hex/LunaTemp/stage3/processed-scripts/Assets/Scripts/Core/StackDisappearController.cs",
+      "C:/UnityProjects/Hex/LunaTemp/stage3/processed-scripts/Assets/Scripts/Core/GameFlowController.cs",
+      "C:/UnityProjects/Hex/LunaTemp/stage3/processed-scripts/Assets/Scripts/Data/GameSettings.cs",
+      "C:/UnityProjects/Hex/LunaTemp/stage3/processed-scripts/Assets/Scripts/Components/TutorialHand.cs",
+      "C:/UnityProjects/Hex/LunaTemp/stage3/processed-scripts/Assets/Scripts/UI/TutorialOverlay.cs",
+      "C:/UnityProjects/Hex/LunaTemp/stage3/processed-scripts/Assets/Scripts/Core/DragDropController.cs",
+      "C:/UnityProjects/Hex/LunaTemp/stage3/processed-scripts/Assets/Scripts/Components/HexStack.cs",
+      "C:/UnityProjects/Hex/LunaTemp/stage3/processed-scripts/Assets/Scripts/Components/HexCell.cs",
+      "C:/UnityProjects/Hex/LunaTemp/stage3/processed-scripts/Assets/Scripts/Core/GridManager.cs",
+      "C:/UnityProjects/Hex/LunaTemp/stage3/processed-scripts/Assets/Scripts/Core/ReactionSystem.cs",
+      "C:/UnityProjects/Hex/LunaTemp/stage3/processed-scripts/Assets/Scripts/Utils/HexCoordinates.cs",
+      "C:/UnityProjects/Hex/LunaTemp/stage3/processed-scripts/Assets/Scripts/Data/LevelData.cs",
+      "C:/UnityProjects/Hex/LunaTemp/stage3/processed-scripts/Assets/Scripts/Data/StackData.cs",
+      "C:/UnityProjects/Hex/LunaTemp/stage3/processed-scripts/Assets/Scripts/Data/HexColor.cs",
+      "C:/UnityProjects/Hex/LunaTemp/stage3/processed-scripts/Assets/Scripts/Components/HexElement.cs",
+      "C:/UnityProjects/Hex/LunaTemp/stage3/processed-scripts/Assets/Scripts/Data/ColorMaterialMapping.cs",
+      "C:/UnityProjects/Hex/LunaTemp/stage3/processed-scripts/Assets/Scripts/Utils/ObjectPool.cs",
+      "C:/UnityProjects/Hex/LunaTemp/stage3/processed-scripts/Assets/Scripts/UI/PackshotScreen.cs",
+      "C:/UnityProjects/Hex/LunaTemp/stage3/processed-scripts/Assets/Scripts/Luna/LunaIntegration.cs"
+    ],
+    [
+      "C:/UnityProjects/Hex/LunaTemp/stage3/processed-scripts/Assets/Scripts/Core/OrthographicCameraFitter.cs"
+    ],
+    [
+      "C:/UnityProjects/Hex/LunaTemp/stage3/processed-scripts/Assets/Scripts/UI/AdaptiveAspectFitter.cs"
+    ],
+    [
+      "C:/Users/zzzab/Downloads/7.1.0/pipeline/templates/LunaCompiler/Scripts/Properties/AssemblyInfo.cs"
+    ],
+    [
+      "C:/Users/zzzab/Downloads/7.1.0/pipeline/templates/LunaCompiler/Scripts/Sources/OtherDummyScript.cs"
+    ],
+    [
+      "C:/Users/zzzab/Downloads/7.1.0/pipeline/templates/LunaCompiler/Scripts/obj/Debug/.NETFramework,Version=v4.7.AssemblyAttributes.cs"
+    ]
+  ]
+}

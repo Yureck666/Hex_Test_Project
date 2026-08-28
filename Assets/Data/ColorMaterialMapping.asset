@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39890efebe3724a4b864d4fd3a574a7d, type: 3}
+  m_Name: ColorMaterialMapping
+  m_EditorClassIdentifier: 
+  mappings:
+  - hexColor: 0
+    material: {fileID: 2100000, guid: dabcf191612f32747b93625e8a1a9171, type: 2}
+    particleColor: {r: 1, g: 1, b: 1, a: 1}
+  - hexColor: 1
+    material: {fileID: 2100000, guid: 26e39b858c6ab7d4188d928cfae8146a, type: 2}
+    particleColor: {r: 0.2, g: 0.3, b: 1, a: 1}
+  - hexColor: 2
+    material: {fileID: 2100000, guid: fdfb0e6c8dfc94548b2d322b73b45d01, type: 2}
+    particleColor: {r: 0.4, g: 0.7, b: 1, a: 1}
+  - hexColor: 3
+    material: {fileID: 2100000, guid: 60f5173a17a97db4b9747ec7d17928c9, type: 2}
+    particleColor: {r: 1, g: 0.9, b: 0.2, a: 1}
+  - hexColor: 4
+    material: {fileID: 2100000, guid: b53c94ad560963147a464f95e6da1f08, type: 2}
+    particleColor: {r: 1, g: 0.2, b: 0.2, a: 1}
+  - hexColor: 5
+    material: {fileID: 2100000, guid: 47983a96831783b4ab7ca052461ea98d, type: 2}
+    particleColor: {r: 0.7, g: 0.2, b: 1, a: 1}
+  - hexColor: 6
+    material: {fileID: 2100000, guid: 2f61c65eb0aa0c64a98d7545c86f4fdd, type: 2}
+    particleColor: {r: 0.2, g: 0.8, b: 0.3, a: 1}
