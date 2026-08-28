@@ -1,6 +1,6 @@
-if ( TRACE ) { TRACE( JSON.parse( '["DG.Tweening.DOTweenCYInstruction.WaitForCompletion#keepWaiting#get","DG.Tweening.DOTweenCYInstruction.WaitForCompletion#ctor","DG.Tweening.DOTweenCYInstruction.WaitForElapsedLoops#keepWaiting#get","DG.Tweening.DOTweenCYInstruction.WaitForElapsedLoops#ctor","DG.Tweening.DOTweenCYInstruction.WaitForKill#keepWaiting#get","DG.Tweening.DOTweenCYInstruction.WaitForKill#ctor","DG.Tweening.DOTweenCYInstruction.WaitForPosition#keepWaiting#get","DG.Tweening.DOTweenCYInstruction.WaitForPosition#ctor","DG.Tweening.DOTweenCYInstruction.WaitForRewind#keepWaiting#get","DG.Tweening.DOTweenCYInstruction.WaitForRewind#ctor","DG.Tweening.DOTweenCYInstruction.WaitForStart#keepWaiting#get","DG.Tweening.DOTweenCYInstruction.WaitForStart#ctor","DG.Tweening.DOTweenModuleAudio#DOFade","DG.Tweening.DOTweenModuleAudio#DOPitch","DG.Tweening.DOTweenModuleAudio#DOSetFloat","DG.Tweening.DOTweenModuleAudio#DOComplete","DG.Tweening.DOTweenModuleAudio#DOKill","DG.Tweening.DOTweenModuleAudio#DOFlip","DG.Tweening.DOTweenModuleAudio#DOGoto","DG.Tweening.DOTweenModuleAudio#DOPause","DG.Tweening.DOTweenModuleAudio#DOPlay","DG.Tweening.DOTweenModuleAudio#DOPlayBackwards","DG.Tweening.DOTweenModuleAudio#DOPlayForward","DG.Tweening.DOTweenModuleAudio#DORestart","DG.Tweening.DOTweenModuleAudio#DORewind","DG.Tweening.DOTweenModuleAudio#DOSmoothRewind","DG.Tweening.DOTweenModuleAudio#DOTogglePause","DG.Tweening.DOTweenModulePhysics#DOMove","DG.Tweening.DOTweenModulePhysics#DOMoveX","DG.Tweening.DOTweenModulePhysics#DOMoveY","DG.Tweening.DOTweenModulePhysics#DOMoveZ","DG.Tweening.DOTweenModulePhysics#DORotate","DG.Tweening.DOTweenModulePhysics#DOLookAt","DG.Tweening.DOTweenModulePhysics#DOJump","DG.Tweening.DOTweenModulePhysics#DOPath","DG.Tweening.DOTweenModulePhysics#DOPath$1","DG.Tweening.DOTweenModulePhysics#DOLocalPath","DG.Tweening.DOTweenModulePhysics#DOLocalPath$1","DG.Tweening.DOTweenModulePhysics2D#DOMove","DG.Tweening.DOTweenModulePhysics2D#DOMoveX","DG.Tweening.DOTweenModulePhysics2D#DOMoveY","DG.Tweening.DOTweenModulePhysics2D#DORotate","DG.Tweening.DOTweenModulePhysics2D#DOJump","DG.Tweening.DOTweenModulePhysics2D#DOPath","DG.Tweening.DOTweenModulePhysics2D#DOPath$1","DG.Tweening.DOTweenModulePhysics2D#DOLocalPath","DG.Tweening.DOTweenModulePhysics2D#DOLocalPath$1","DG.Tweening.DOTweenModuleSprite#DOColor","DG.Tweening.DOTweenModuleSprite#DOFade","DG.Tweening.DOTweenModuleSprite#DOGradientColor","DG.Tweening.DOTweenModuleSprite#DOBlendableColor","DG.Tweening.DOTweenModuleUI#DOFade","DG.Tweening.DOTweenModuleUI#DOFade$1","DG.Tweening.DOTweenModuleUI#DOFade$2","DG.Tweening.DOTweenModuleUI#DOFade$3","DG.Tweening.DOTweenModuleUI#DOFade$4","DG.Tweening.DOTweenModuleUI#DOColor","DG.Tweening.DOTweenModuleUI#DOColor$1","DG.Tweening.DOTweenModuleUI#DOColor$2","DG.Tweening.DOTweenModuleUI#DOColor$3","DG.Tweening.DOTweenModuleUI#DOFillAmount","DG.Tweening.DOTweenModuleUI#DOGradientColor","DG.Tweening.DOTweenModuleUI#DOFlexibleSize","DG.Tweening.DOTweenModuleUI#DOMinSize","DG.Tweening.DOTweenModuleUI#DOPreferredSize","DG.Tweening.DOTweenModuleUI#DOScale","DG.Tweening.DOTweenModuleUI#DOAnchorPos","DG.Tweening.DOTweenModuleUI#DOAnchorPosX","DG.Tweening.DOTweenModuleUI#DOAnchorPosY","DG.Tweening.DOTweenModuleUI#DOAnchorPos3D","DG.Tweening.DOTweenModuleUI#DOAnchorPos3DX","DG.Tweening.DOTweenModuleUI#DOAnchorPos3DY","DG.Tweening.DOTweenModuleUI#DOAnchorPos3DZ","DG.Tweening.DOTweenModuleUI#DOAnchorMax","DG.Tweening.DOTweenModuleUI#DOAnchorMin","DG.Tweening.DOTweenModuleUI#DOPivot","DG.Tweening.DOTweenModuleUI#DOPivotX","DG.Tweening.DOTweenModuleUI#DOPivotY","DG.Tweening.DOTweenModuleUI#DOSizeDelta","DG.Tweening.DOTweenModuleUI#DOPunchAnchorPos","DG.Tweening.DOTweenModuleUI#DOShakeAnchorPos","DG.Tweening.DOTweenModuleUI#DOShakeAnchorPos$1","DG.Tweening.DOTweenModuleUI#DOJumpAnchorPos","DG.Tweening.DOTweenModuleUI#DONormalizedPos","DG.Tweening.DOTweenModuleUI#DOHorizontalNormalizedPos","DG.Tweening.DOTweenModuleUI#DOVerticalNormalizedPos","DG.Tweening.DOTweenModuleUI#DOValue","DG.Tweening.DOTweenModuleUI#DOCounter","DG.Tweening.DOTweenModuleUI#DOText","DG.Tweening.DOTweenModuleUI#DOBlendableColor","DG.Tweening.DOTweenModuleUI#DOBlendableColor$1","DG.Tweening.DOTweenModuleUI#DOBlendableColor$2","DG.Tweening.DOTweenModuleUI#DOShapeCircle","DG.Tweening.DOTweenModuleUI.Utils#SwitchToRectTransform","DG.Tweening.DOTweenModuleUnityVersion#DOGradientColor","DG.Tweening.DOTweenModuleUnityVersion#DOGradientColor$1","DG.Tweening.DOTweenModuleUnityVersion#WaitForCompletion","DG.Tweening.DOTweenModuleUnityVersion#WaitForRewind","DG.Tweening.DOTweenModuleUnityVersion#WaitForKill","DG.Tweening.DOTweenModuleUnityVersion#WaitForElapsedLoops","DG.Tweening.DOTweenModuleUnityVersion#WaitForPosition","DG.Tweening.DOTweenModuleUnityVersion#WaitForStart","DG.Tweening.DOTweenModuleUnityVersion#DOOffset","DG.Tweening.DOTweenModuleUnityVersion#DOTiling","DG.Tweening.DOTweenModuleUtils#Init","DG.Tweening.DOTweenModuleUtils#Preserver","DG.Tweening.DOTweenModuleUtils.Physics#SetOrientationOnPath","DG.Tweening.DOTweenModuleUtils.Physics#HasRigidbody2D","DG.Tweening.DOTweenModuleUtils.Physics#HasRigidbody","DG.Tweening.DOTweenModuleUtils.Physics#CreateDOTweenPathTween","Hex.Components.DisappearParticle#Awake","Hex.Components.DisappearParticle#Initialize","Hex.Components.HexCell#IsOccupied#get","Hex.Components.HexCell#IsValidForPlacement#get","Hex.Components.HexCell#init","Hex.Components.HexCell#Awake","Hex.Components.HexCell#OnDestroy","Hex.Components.HexCell#Initialize","Hex.Components.HexCell#SetStack","Hex.Components.HexCell#ClearStack","Hex.Components.HexCell#ShowHighlight","Hex.Components.HexCell#HideHighlight","Hex.Components.HexCell#GetDuration","Hex.Components.HexElement#Awake","Hex.Components.HexElement#OnDestroy","Hex.Components.HexElement#Initialize","Hex.Components.HexElement#AnimateFlight","Hex.Components.HexElement#AnimateDisappear","Hex.Components.HexStack#Height#get","Hex.Components.HexStack#TopColor#get","Hex.Components.HexStack#IsEmpty#get","Hex.Components.HexStack#init","Hex.Components.HexStack#Initialize","Hex.Components.HexStack#AddElement","Hex.Components.HexStack#RemoveTop","Hex.Components.HexStack#UpdateElementPositions","Hex.Components.HexStack#GetAllElements","Hex.Components.TutorialHand#init","Hex.Components.TutorialHand#Awake","Hex.Components.TutorialHand#LateUpdate","Hex.Components.TutorialHand#Initialize","Hex.Components.TutorialHand#StartTutorial","Hex.Components.TutorialHand#RestartWithDelay","Hex.Components.TutorialHand#StopTutorial","Hex.Components.TutorialHand#RestartCoroutine","Hex.Components.TutorialHand#TutorialLoop","Hex.Core.DragDropController#init","Hex.Core.DragDropController#Awake","Hex.Core.DragDropController#Initialize","Hex.Core.DragDropController#Update","Hex.Core.DragDropController#CheckForPickup","Hex.Core.DragDropController#PickupStack","Hex.Core.DragDropController#DisableStackColliders","Hex.Core.DragDropController#EnableStackColliders","Hex.Core.DragDropController#DestroyShadow","Hex.Core.DragDropController#UpdateDrag","Hex.Core.DragDropController#UpdateHighlight","Hex.Core.DragDropController#CheckForDrop","Hex.Core.DragDropController#PlaceStack","Hex.Core.DragDropController#ReturnStack","Hex.Core.GameFlowController#init","Hex.Core.GameFlowController#init","Hex.Core.GameFlowController#Awake","Hex.Core.GameFlowController#Start","Hex.Core.GameFlowController#InitializeLevel","Hex.Core.GameFlowController#SetupTutorial","Hex.Core.GameFlowController#OnStackPickedUp","Hex.Core.GameFlowController#OnStackReturned","Hex.Core.GameFlowController#OnStackPlaced","Hex.Core.GameFlowController#ShowNextPlayerStackBatch","Hex.Core.GameFlowController#OnReactionCompleted","Hex.Core.GameFlowController#CheckWinCondition","Hex.Core.GridManager#init","Hex.Core.GridManager#Initialize","Hex.Core.GridManager#GenerateGrid","Hex.Core.GridManager#CreateInitialStacks","Hex.Core.GridManager#GetCell","Hex.Core.GridManager#IsValidCell","Hex.Core.GridManager#GetNeighbors","Hex.Core.GridManager#GetCellAtWorldPosition","Hex.Core.GridManager#GetAllStacks","Hex.Core.OrthographicCameraFitter#init","Hex.Core.OrthographicCameraFitter#Awake","Hex.Core.OrthographicCameraFitter#Update","Hex.Core.OrthographicCameraFitter#Fit","Hex.Core.ReactionSystem#IsReacting#get","Hex.Core.ReactionSystem#init","Hex.Core.ReactionSystem#Initialize","Hex.Core.ReactionSystem#ResetSpeedMultiplier","Hex.Core.ReactionSystem#CheckReactions","Hex.Core.ReactionSystem#CheckReactionsCoroutine","Hex.Core.ReactionSystem#CleanupEmptyStacks","Hex.Core.ReactionSystem#CheckForDisappear","Hex.Core.ReactionSystem#RunDisappearAndCheckReactions","Hex.Core.ReactionSystem#UpdateSpeedMultiplier","Hex.Core.ReactionSystem#AllElementsSameColor","Hex.Core.ReactionSystem#CountSameColorFromTop","Hex.Core.StackDisappearController#Initialize","Hex.Core.StackDisappearController#DisappearStack","Hex.Core.StackDisappearController#SpawnParticles","Hex.Data.ColorMaterialMapping#init","Hex.Data.ColorMaterialMapping#GetMaterial","Hex.Data.ColorMaterialMapping#GetParticleColor","Hex.Data.ColorMaterialMapping.ColorMaterialPair#getDefaultValue","Hex.Data.ColorMaterialMapping.ColorMaterialPair#init","Hex.Data.ColorMaterialMapping.ColorMaterialPair#ctor","Hex.Data.ColorMaterialMapping.ColorMaterialPair#getHashCode","Hex.Data.ColorMaterialMapping.ColorMaterialPair#equals","Hex.Data.ColorMaterialMapping.ColorMaterialPair#$clone","Hex.Data.GameSettings#init","Hex.Data.LevelData#init","Hex.Data.StackData#getDefaultValue","Hex.Data.StackData#init","Hex.Data.StackData#ctor","Hex.Data.StackData#getHashCode","Hex.Data.StackData#equals","Hex.Data.StackData#$clone","Hex.Luna.LunaIntegration#GameEnded","Hex.Luna.LunaIntegration#InstallFullGame","Hex.UI.PackshotScreen#Awake","Hex.UI.PackshotScreen#Show","Hex.UI.PackshotScreen#OnClick","Hex.UI.TutorialOverlay#Awake","Hex.UI.TutorialOverlay#Show","Hex.UI.TutorialOverlay#Hide","Hex.UI.TutorialOverlay#PositionHole","Hex.Utils.HexCoordinates#inherits","Hex.Utils.HexCoordinates#init","Hex.Utils.HexCoordinates#FromWorldPosition","Hex.Utils.HexCoordinates#op_Equality","Hex.Utils.HexCoordinates#op_Inequality","Hex.Utils.HexCoordinates#getDefaultValue","Hex.Utils.HexCoordinates#$ctor1","Hex.Utils.HexCoordinates#ctor","Hex.Utils.HexCoordinates#GetNeighbor","Hex.Utils.HexCoordinates#GetAllNeighbors","Hex.Utils.HexCoordinates#ToWorldPosition","Hex.Utils.HexCoordinates#equalsT","Hex.Utils.HexCoordinates#equals","Hex.Utils.HexCoordinates#getHashCode","Hex.Utils.HexCoordinates#toString","Hex.Utils.HexCoordinates#$clone","Hex.Utils.ObjectPool$1#init","Hex.Utils.ObjectPool$1#ctor","Hex.Utils.ObjectPool$1#Get","Hex.Utils.ObjectPool$1#Return"]' ) ); }
+if ( TRACE ) { TRACE( JSON.parse( '["DG.Tweening.DOTweenCYInstruction.WaitForCompletion#keepWaiting#get","DG.Tweening.DOTweenCYInstruction.WaitForCompletion#ctor","DG.Tweening.DOTweenCYInstruction.WaitForElapsedLoops#keepWaiting#get","DG.Tweening.DOTweenCYInstruction.WaitForElapsedLoops#ctor","DG.Tweening.DOTweenCYInstruction.WaitForKill#keepWaiting#get","DG.Tweening.DOTweenCYInstruction.WaitForKill#ctor","DG.Tweening.DOTweenCYInstruction.WaitForPosition#keepWaiting#get","DG.Tweening.DOTweenCYInstruction.WaitForPosition#ctor","DG.Tweening.DOTweenCYInstruction.WaitForRewind#keepWaiting#get","DG.Tweening.DOTweenCYInstruction.WaitForRewind#ctor","DG.Tweening.DOTweenCYInstruction.WaitForStart#keepWaiting#get","DG.Tweening.DOTweenCYInstruction.WaitForStart#ctor","DG.Tweening.DOTweenModuleAudio#DOFade","DG.Tweening.DOTweenModuleAudio#DOPitch","DG.Tweening.DOTweenModuleAudio#DOSetFloat","DG.Tweening.DOTweenModuleAudio#DOComplete","DG.Tweening.DOTweenModuleAudio#DOKill","DG.Tweening.DOTweenModuleAudio#DOFlip","DG.Tweening.DOTweenModuleAudio#DOGoto","DG.Tweening.DOTweenModuleAudio#DOPause","DG.Tweening.DOTweenModuleAudio#DOPlay","DG.Tweening.DOTweenModuleAudio#DOPlayBackwards","DG.Tweening.DOTweenModuleAudio#DOPlayForward","DG.Tweening.DOTweenModuleAudio#DORestart","DG.Tweening.DOTweenModuleAudio#DORewind","DG.Tweening.DOTweenModuleAudio#DOSmoothRewind","DG.Tweening.DOTweenModuleAudio#DOTogglePause","DG.Tweening.DOTweenModulePhysics#DOMove","DG.Tweening.DOTweenModulePhysics#DOMoveX","DG.Tweening.DOTweenModulePhysics#DOMoveY","DG.Tweening.DOTweenModulePhysics#DOMoveZ","DG.Tweening.DOTweenModulePhysics#DORotate","DG.Tweening.DOTweenModulePhysics#DOLookAt","DG.Tweening.DOTweenModulePhysics#DOJump","DG.Tweening.DOTweenModulePhysics#DOPath","DG.Tweening.DOTweenModulePhysics#DOPath$1","DG.Tweening.DOTweenModulePhysics#DOLocalPath","DG.Tweening.DOTweenModulePhysics#DOLocalPath$1","DG.Tweening.DOTweenModulePhysics2D#DOMove","DG.Tweening.DOTweenModulePhysics2D#DOMoveX","DG.Tweening.DOTweenModulePhysics2D#DOMoveY","DG.Tweening.DOTweenModulePhysics2D#DORotate","DG.Tweening.DOTweenModulePhysics2D#DOJump","DG.Tweening.DOTweenModulePhysics2D#DOPath","DG.Tweening.DOTweenModulePhysics2D#DOPath$1","DG.Tweening.DOTweenModulePhysics2D#DOLocalPath","DG.Tweening.DOTweenModulePhysics2D#DOLocalPath$1","DG.Tweening.DOTweenModuleSprite#DOColor","DG.Tweening.DOTweenModuleSprite#DOFade","DG.Tweening.DOTweenModuleSprite#DOGradientColor","DG.Tweening.DOTweenModuleSprite#DOBlendableColor","DG.Tweening.DOTweenModuleUI#DOFade","DG.Tweening.DOTweenModuleUI#DOFade$1","DG.Tweening.DOTweenModuleUI#DOFade$2","DG.Tweening.DOTweenModuleUI#DOFade$3","DG.Tweening.DOTweenModuleUI#DOFade$4","DG.Tweening.DOTweenModuleUI#DOColor","DG.Tweening.DOTweenModuleUI#DOColor$1","DG.Tweening.DOTweenModuleUI#DOColor$2","DG.Tweening.DOTweenModuleUI#DOColor$3","DG.Tweening.DOTweenModuleUI#DOFillAmount","DG.Tweening.DOTweenModuleUI#DOGradientColor","DG.Tweening.DOTweenModuleUI#DOFlexibleSize","DG.Tweening.DOTweenModuleUI#DOMinSize","DG.Tweening.DOTweenModuleUI#DOPreferredSize","DG.Tweening.DOTweenModuleUI#DOScale","DG.Tweening.DOTweenModuleUI#DOAnchorPos","DG.Tweening.DOTweenModuleUI#DOAnchorPosX","DG.Tweening.DOTweenModuleUI#DOAnchorPosY","DG.Tweening.DOTweenModuleUI#DOAnchorPos3D","DG.Tweening.DOTweenModuleUI#DOAnchorPos3DX","DG.Tweening.DOTweenModuleUI#DOAnchorPos3DY","DG.Tweening.DOTweenModuleUI#DOAnchorPos3DZ","DG.Tweening.DOTweenModuleUI#DOAnchorMax","DG.Tweening.DOTweenModuleUI#DOAnchorMin","DG.Tweening.DOTweenModuleUI#DOPivot","DG.Tweening.DOTweenModuleUI#DOPivotX","DG.Tweening.DOTweenModuleUI#DOPivotY","DG.Tweening.DOTweenModuleUI#DOSizeDelta","DG.Tweening.DOTweenModuleUI#DOPunchAnchorPos","DG.Tweening.DOTweenModuleUI#DOShakeAnchorPos","DG.Tweening.DOTweenModuleUI#DOShakeAnchorPos$1","DG.Tweening.DOTweenModuleUI#DOJumpAnchorPos","DG.Tweening.DOTweenModuleUI#DONormalizedPos","DG.Tweening.DOTweenModuleUI#DOHorizontalNormalizedPos","DG.Tweening.DOTweenModuleUI#DOVerticalNormalizedPos","DG.Tweening.DOTweenModuleUI#DOValue","DG.Tweening.DOTweenModuleUI#DOCounter","DG.Tweening.DOTweenModuleUI#DOText","DG.Tweening.DOTweenModuleUI#DOBlendableColor","DG.Tweening.DOTweenModuleUI#DOBlendableColor$1","DG.Tweening.DOTweenModuleUI#DOBlendableColor$2","DG.Tweening.DOTweenModuleUI#DOShapeCircle","DG.Tweening.DOTweenModuleUI.Utils#SwitchToRectTransform","DG.Tweening.DOTweenModuleUnityVersion#DOGradientColor","DG.Tweening.DOTweenModuleUnityVersion#DOGradientColor$1","DG.Tweening.DOTweenModuleUnityVersion#WaitForCompletion","DG.Tweening.DOTweenModuleUnityVersion#WaitForRewind","DG.Tweening.DOTweenModuleUnityVersion#WaitForKill","DG.Tweening.DOTweenModuleUnityVersion#WaitForElapsedLoops","DG.Tweening.DOTweenModuleUnityVersion#WaitForPosition","DG.Tweening.DOTweenModuleUnityVersion#WaitForStart","DG.Tweening.DOTweenModuleUnityVersion#DOOffset","DG.Tweening.DOTweenModuleUnityVersion#DOTiling","DG.Tweening.DOTweenModuleUtils#Init","DG.Tweening.DOTweenModuleUtils#Preserver","DG.Tweening.DOTweenModuleUtils.Physics#SetOrientationOnPath","DG.Tweening.DOTweenModuleUtils.Physics#HasRigidbody2D","DG.Tweening.DOTweenModuleUtils.Physics#HasRigidbody","DG.Tweening.DOTweenModuleUtils.Physics#CreateDOTweenPathTween","Hex.Components.DisappearParticle#Awake","Hex.Components.DisappearParticle#Initialize","Hex.Components.HexCell#IsOccupied#get","Hex.Components.HexCell#IsValidForPlacement#get","Hex.Components.HexCell#init","Hex.Components.HexCell#Awake","Hex.Components.HexCell#OnDestroy","Hex.Components.HexCell#Initialize","Hex.Components.HexCell#SetStack","Hex.Components.HexCell#ClearStack","Hex.Components.HexCell#ShowHighlight","Hex.Components.HexCell#HideHighlight","Hex.Components.HexCell#GetDuration","Hex.Components.HexElement#Awake","Hex.Components.HexElement#OnDestroy","Hex.Components.HexElement#Initialize","Hex.Components.HexElement#AnimateFlight","Hex.Components.HexElement#AnimateDisappear","Hex.Components.HexStack#Height#get","Hex.Components.HexStack#TopColor#get","Hex.Components.HexStack#IsEmpty#get","Hex.Components.HexStack#init","Hex.Components.HexStack#Initialize","Hex.Components.HexStack#AddElement","Hex.Components.HexStack#RemoveTop","Hex.Components.HexStack#UpdateElementPositions","Hex.Components.HexStack#GetAllElements","Hex.Components.TutorialHand#init","Hex.Components.TutorialHand#Awake","Hex.Components.TutorialHand#LateUpdate","Hex.Components.TutorialHand#Initialize","Hex.Components.TutorialHand#StartTutorial","Hex.Components.TutorialHand#RestartWithDelay","Hex.Components.TutorialHand#StopTutorial","Hex.Components.TutorialHand#RestartCoroutine","Hex.Components.TutorialHand#TutorialLoop","Hex.Core.DragDropController#init","Hex.Core.DragDropController#Awake","Hex.Core.DragDropController#Initialize","Hex.Core.DragDropController#Update","Hex.Core.DragDropController#CheckForPickup","Hex.Core.DragDropController#PickupStack","Hex.Core.DragDropController#DisableStackColliders","Hex.Core.DragDropController#EnableStackColliders","Hex.Core.DragDropController#DestroyShadow","Hex.Core.DragDropController#UpdateDrag","Hex.Core.DragDropController#UpdateHighlight","Hex.Core.DragDropController#CheckForDrop","Hex.Core.DragDropController#PlaceStack","Hex.Core.DragDropController#ReturnStack","Hex.Core.GameFlowController#init","Hex.Core.GameFlowController#init","Hex.Core.GameFlowController#Awake","Hex.Core.GameFlowController#Start","Hex.Core.GameFlowController#InitializeLevel","Hex.Core.GameFlowController#SetupTutorial","Hex.Core.GameFlowController#OnStackPickedUp","Hex.Core.GameFlowController#OnStackReturned","Hex.Core.GameFlowController#OnStackPlaced","Hex.Core.GameFlowController#ShowNextPlayerStackBatch","Hex.Core.GameFlowController#OnReactionCompleted","Hex.Core.GameFlowController#CheckWinCondition","Hex.Core.GridManager#init","Hex.Core.GridManager#Initialize","Hex.Core.GridManager#GenerateGrid","Hex.Core.GridManager#CreateInitialStacks","Hex.Core.GridManager#GetCell","Hex.Core.GridManager#IsValidCell","Hex.Core.GridManager#GetNeighbors","Hex.Core.GridManager#GetCellAtWorldPosition","Hex.Core.GridManager#GetAllStacks","Hex.Core.OrthographicCameraFitter#init","Hex.Core.OrthographicCameraFitter#Awake","Hex.Core.OrthographicCameraFitter#Update","Hex.Core.OrthographicCameraFitter#Fit","Hex.Core.ReactionSystem#IsReacting#get","Hex.Core.ReactionSystem#init","Hex.Core.ReactionSystem#Initialize","Hex.Core.ReactionSystem#ResetSpeedMultiplier","Hex.Core.ReactionSystem#CheckReactions","Hex.Core.ReactionSystem#CheckReactionsCoroutine","Hex.Core.ReactionSystem#CleanupEmptyStacks","Hex.Core.ReactionSystem#CheckForDisappear","Hex.Core.ReactionSystem#RunDisappearAndCheckReactions","Hex.Core.ReactionSystem#UpdateSpeedMultiplier","Hex.Core.ReactionSystem#AllElementsSameColor","Hex.Core.ReactionSystem#CountSameColorFromTop","Hex.Core.StackDisappearController#Initialize","Hex.Core.StackDisappearController#DisappearStack","Hex.Core.StackDisappearController#SpawnParticles","Hex.Data.ColorMaterialMapping#init","Hex.Data.ColorMaterialMapping#GetMaterial","Hex.Data.ColorMaterialMapping#GetParticleColor","Hex.Data.ColorMaterialMapping.ColorMaterialPair#getDefaultValue","Hex.Data.ColorMaterialMapping.ColorMaterialPair#init","Hex.Data.ColorMaterialMapping.ColorMaterialPair#ctor","Hex.Data.ColorMaterialMapping.ColorMaterialPair#getHashCode","Hex.Data.ColorMaterialMapping.ColorMaterialPair#equals","Hex.Data.ColorMaterialMapping.ColorMaterialPair#$clone","Hex.Data.GameSettings#init","Hex.Data.LevelData#init","Hex.Data.StackData#getDefaultValue","Hex.Data.StackData#init","Hex.Data.StackData#ctor","Hex.Data.StackData#getHashCode","Hex.Data.StackData#equals","Hex.Data.StackData#$clone","Hex.Luna.LunaIntegration#GameEnded","Hex.Luna.LunaIntegration#InstallFullGame","Hex.Luna.LunaIntegration#ChallengeStarted","Hex.Luna.LunaIntegration#ReportChallengeProgress","Hex.Luna.LunaIntegration#ChallengeSolved","Hex.Luna.LunaIntegration#EndcardShown","Hex.Luna.LunaIntegration#SendProgress","Hex.Luna.LunaIntegration#LogEvent","Hex.UI.PackshotScreen#Awake","Hex.UI.PackshotScreen#Show","Hex.UI.PackshotScreen#OnClick","Hex.Utils.HexCoordinates#inherits","Hex.Utils.HexCoordinates#init","Hex.Utils.HexCoordinates#FromWorldPosition","Hex.Utils.HexCoordinates#op_Equality","Hex.Utils.HexCoordinates#op_Inequality","Hex.Utils.HexCoordinates#getDefaultValue","Hex.Utils.HexCoordinates#$ctor1","Hex.Utils.HexCoordinates#ctor","Hex.Utils.HexCoordinates#GetNeighbor","Hex.Utils.HexCoordinates#GetAllNeighbors","Hex.Utils.HexCoordinates#ToWorldPosition","Hex.Utils.HexCoordinates#equalsT","Hex.Utils.HexCoordinates#equals","Hex.Utils.HexCoordinates#getHashCode","Hex.Utils.HexCoordinates#toString","Hex.Utils.HexCoordinates#$clone","Hex.Utils.ObjectPool$1#init","Hex.Utils.ObjectPool$1#ctor","Hex.Utils.ObjectPool$1#Get","Hex.Utils.ObjectPool$1#Return"]' ) ); }
 /**
- * @version 1.0.9545.22989
+ * @version 1.0.9736.20072
  * @copyright anton
  * @compiler Bridge.NET 17.9.42-luna
  */
@@ -3476,7 +3476,6 @@ if ( TRACE ) { TRACE( "Hex.Components.TutorialHand#init", this ); }
         },
         fields: {
             handRenderer: null,
-            overlay: null,
             pointStack: null,
             pointTarget: null,
             _camera: null,
@@ -3517,7 +3516,6 @@ if ( TRACE ) { TRACE( "Hex.Components.TutorialHand#Initialize", this ); }
 if ( TRACE ) { TRACE( "Hex.Components.TutorialHand#StartTutorial", this ); }
 
                 this._stopped = false;
-                UnityEngine.MonoBehaviour.op_Inequality(this.overlay, null) ? this.overlay.Show(0.4) : null;
                 this._loopCoroutine = this.StartCoroutine$1(this.TutorialLoop());
             },
             /*Hex.Components.TutorialHand.StartTutorial end.*/
@@ -3540,7 +3538,6 @@ if ( TRACE ) { TRACE( "Hex.Components.TutorialHand#StopTutorial", this ); }
                 if (this._loopCoroutine != null) {
                     this.StopCoroutine$2(this._loopCoroutine);
                 }
-                UnityEngine.MonoBehaviour.op_Inequality(this.overlay, null) ? this.overlay.Hide(0.3) : null;
                 DG.Tweening.DOTween.Kill(this.handRenderer);
                 DG.Tweening.DOTween.Kill(this.handRenderer.transform);
                 DG.Tweening.TweenSettingsExtensions.OnComplete(DG.Tweening.Core.TweenerCore$3(UnityEngine.Color,UnityEngine.Color,DG.Tweening.Plugins.Options.ColorOptions), DG.Tweening.DOTweenModuleSprite.DOFade(this.handRenderer, 0.0, 0.3), Bridge.fn.bind(this, function () {
@@ -3576,8 +3573,7 @@ if ( TRACE ) { TRACE( "Hex.Components.TutorialHand#RestartCoroutine", this ); }
                                         continue;
                                 }
                                 case 2: {
-                                    UnityEngine.MonoBehaviour.op_Inequality(this.overlay, null) ? this.overlay.Show(0.4) : null;
-                                        $enumerator.current = this.TutorialLoop();
+                                    $enumerator.current = this.TutorialLoop();
                                         $step = 3;
                                         return true;
                                 }
@@ -4117,6 +4113,7 @@ if ( TRACE ) { TRACE( "Hex.Core.GameFlowController#SetupTutorial", this ); }
             OnStackPickedUp: function (stack) {
 if ( TRACE ) { TRACE( "Hex.Core.GameFlowController#OnStackPickedUp", this ); }
 
+                Hex.Luna.LunaIntegration.ChallengeStarted();
                 this._reactionSystem.ResetSpeedMultiplier();
                 UnityEngine.MonoBehaviour.op_Inequality(this.tutorialHand, null) ? this.tutorialHand.StopTutorial() : null;
             },
@@ -4138,6 +4135,7 @@ if ( TRACE ) { TRACE( "Hex.Core.GameFlowController#OnStackPlaced", this ); }
 
                 this._hasSuccessfulPlacement = true;
                 this._playedStacksCount = (this._playedStacksCount + 1) | 0;
+                Hex.Luna.LunaIntegration.ReportChallengeProgress(this._playedStacksCount / this.gameSettings.stacksToWin);
                 this._reactionSystem.CheckReactions();
 
                 this._activePlayerStacks.remove(stack);
@@ -4208,6 +4206,7 @@ if ( TRACE ) { TRACE( "Hex.Core.GameFlowController#CheckWinCondition", this ); }
                 }
 
                 this._winTriggered = true;
+                Hex.Luna.LunaIntegration.ChallengeSolved();
                 this._dragDropController.enabled = false;
                 UnityEngine.MonoBehaviour.op_Inequality(this.packshotScreen, null) ? this.packshotScreen.Show(this.gameSettings.packshotDelay, this.gameSettings.packshotFadeDuration) : null;
             },
@@ -5330,11 +5329,22 @@ if ( TRACE ) { TRACE( "Hex.Data.StackData#$clone", this ); }
     /*Hex.Luna.LunaIntegration start.*/
     Bridge.define("Hex.Luna.LunaIntegration", {
         statics: {
+            fields: {
+                _gameEndedSent: false,
+                _challengeStartedSent: false,
+                _challengeSolvedSent: false,
+                _endcardShownSent: false,
+                _progressPercentSent: 0
+            },
             methods: {
                 /*Hex.Luna.LunaIntegration.GameEnded:static start.*/
                 GameEnded: function () {
 if ( TRACE ) { TRACE( "Hex.Luna.LunaIntegration#GameEnded", this ); }
 
+                    if (Hex.Luna.LunaIntegration._gameEndedSent) {
+                        return;
+                    }
+                    Hex.Luna.LunaIntegration._gameEndedSent = true;
                     Bridge.global.Luna.Unity.LifeCycle.GameEnded();
                 },
                 /*Hex.Luna.LunaIntegration.GameEnded:static end.*/
@@ -5343,9 +5353,88 @@ if ( TRACE ) { TRACE( "Hex.Luna.LunaIntegration#GameEnded", this ); }
                 InstallFullGame: function () {
 if ( TRACE ) { TRACE( "Hex.Luna.LunaIntegration#InstallFullGame", this ); }
 
+                    Hex.Luna.LunaIntegration.LogEvent("CTA_CLICKED");
                     Bridge.global.Luna.Unity.Playable.InstallFullGame();
                 },
                 /*Hex.Luna.LunaIntegration.InstallFullGame:static end.*/
+
+                /*Hex.Luna.LunaIntegration.ChallengeStarted:static start.*/
+                ChallengeStarted: function () {
+if ( TRACE ) { TRACE( "Hex.Luna.LunaIntegration#ChallengeStarted", this ); }
+
+                    if (Hex.Luna.LunaIntegration._challengeStartedSent) {
+                        return;
+                    }
+                    Hex.Luna.LunaIntegration._challengeStartedSent = true;
+                    Hex.Luna.LunaIntegration.LogEvent("CHALLENGE_STARTED");
+                },
+                /*Hex.Luna.LunaIntegration.ChallengeStarted:static end.*/
+
+                /*Hex.Luna.LunaIntegration.ReportChallengeProgress:static start.*/
+                ReportChallengeProgress: function (normalized) {
+if ( TRACE ) { TRACE( "Hex.Luna.LunaIntegration#ReportChallengeProgress", this ); }
+
+                    var percent = Bridge.Int.clip32(normalized * 100.0);
+
+                    if (percent >= 25) {
+                        Hex.Luna.LunaIntegration.SendProgress(25);
+                    }
+                    if (percent >= 50) {
+                        Hex.Luna.LunaIntegration.SendProgress(50);
+                    }
+                    if (percent >= 75) {
+                        Hex.Luna.LunaIntegration.SendProgress(75);
+                    }
+                },
+                /*Hex.Luna.LunaIntegration.ReportChallengeProgress:static end.*/
+
+                /*Hex.Luna.LunaIntegration.ChallengeSolved:static start.*/
+                ChallengeSolved: function () {
+if ( TRACE ) { TRACE( "Hex.Luna.LunaIntegration#ChallengeSolved", this ); }
+
+                    if (Hex.Luna.LunaIntegration._challengeSolvedSent) {
+                        return;
+                    }
+                    Hex.Luna.LunaIntegration._challengeSolvedSent = true;
+
+                    Hex.Luna.LunaIntegration.SendProgress(25);
+                    Hex.Luna.LunaIntegration.SendProgress(50);
+                    Hex.Luna.LunaIntegration.SendProgress(75);
+                    Hex.Luna.LunaIntegration.LogEvent("CHALLENGE_SOLVED");
+                },
+                /*Hex.Luna.LunaIntegration.ChallengeSolved:static end.*/
+
+                /*Hex.Luna.LunaIntegration.EndcardShown:static start.*/
+                EndcardShown: function () {
+if ( TRACE ) { TRACE( "Hex.Luna.LunaIntegration#EndcardShown", this ); }
+
+                    if (Hex.Luna.LunaIntegration._endcardShownSent) {
+                        return;
+                    }
+                    Hex.Luna.LunaIntegration._endcardShownSent = true;
+                    Hex.Luna.LunaIntegration.LogEvent("ENDCARD_SHOWN");
+                },
+                /*Hex.Luna.LunaIntegration.EndcardShown:static end.*/
+
+                /*Hex.Luna.LunaIntegration.SendProgress:static start.*/
+                SendProgress: function (percent) {
+if ( TRACE ) { TRACE( "Hex.Luna.LunaIntegration#SendProgress", this ); }
+
+                    if (Hex.Luna.LunaIntegration._progressPercentSent >= percent) {
+                        return;
+                    }
+                    Hex.Luna.LunaIntegration._progressPercentSent = percent;
+                    Hex.Luna.LunaIntegration.LogEvent("CHALLENGE_PASS_" + percent);
+                },
+                /*Hex.Luna.LunaIntegration.SendProgress:static end.*/
+
+                /*Hex.Luna.LunaIntegration.LogEvent:static start.*/
+                LogEvent: function (eventName) {
+if ( TRACE ) { TRACE( "Hex.Luna.LunaIntegration#LogEvent", this ); }
+
+                    Bridge.global.Luna.Unity.Analytics.LogEvent$1(eventName, 0);
+                },
+                /*Hex.Luna.LunaIntegration.LogEvent:static end.*/
 
 
             }
@@ -5376,6 +5465,7 @@ if ( TRACE ) { TRACE( "Hex.UI.PackshotScreen#Awake", this ); }
 if ( TRACE ) { TRACE( "Hex.UI.PackshotScreen#Show", this ); }
 
                 this.gameObject.SetActive(true);
+                Hex.Luna.LunaIntegration.EndcardShown();
                 Hex.Luna.LunaIntegration.GameEnded();
                 DG.Tweening.TweenSettingsExtensions.SetDelay(DG.Tweening.Core.TweenerCore$3(System.Single,System.Single,DG.Tweening.Plugins.Options.FloatOptions), DG.Tweening.DOTweenModuleUI.DOFade(this.canvasGroup, 1.0, fadeDuration), delay);
             },
@@ -5393,72 +5483,6 @@ if ( TRACE ) { TRACE( "Hex.UI.PackshotScreen#OnClick", this ); }
         }
     });
     /*Hex.UI.PackshotScreen end.*/
-
-    /*Hex.UI.TutorialOverlay start.*/
-    Bridge.define("Hex.UI.TutorialOverlay", {
-        inherits: [UnityEngine.MonoBehaviour],
-        fields: {
-            canvasGroup: null,
-            holeStack: null,
-            holeTarget: null,
-            worldReferenceStack: null,
-            worldReferenceTarget: null,
-            _camera: null,
-            _positioned: false
-        },
-        methods: {
-            /*Hex.UI.TutorialOverlay.Awake start.*/
-            Awake: function () {
-if ( TRACE ) { TRACE( "Hex.UI.TutorialOverlay#Awake", this ); }
-
-                this._camera = UnityEngine.Camera.main;
-                this.canvasGroup.alpha = 0.0;
-                this.gameObject.SetActive(false);
-            },
-            /*Hex.UI.TutorialOverlay.Awake end.*/
-
-            /*Hex.UI.TutorialOverlay.Show start.*/
-            Show: function (duration) {
-if ( TRACE ) { TRACE( "Hex.UI.TutorialOverlay#Show", this ); }
-
-                this.gameObject.SetActive(true);
-
-                if (!this._positioned) {
-                    this.PositionHole(this.holeStack, this.worldReferenceStack.position);
-                    this.PositionHole(this.holeTarget, this.worldReferenceTarget.position);
-                    this._positioned = true;
-                }
-
-                DG.Tweening.DOTween.Kill(this.canvasGroup);
-                DG.Tweening.DOTweenModuleUI.DOFade(this.canvasGroup, 1.0, duration);
-            },
-            /*Hex.UI.TutorialOverlay.Show end.*/
-
-            /*Hex.UI.TutorialOverlay.Hide start.*/
-            Hide: function (duration) {
-if ( TRACE ) { TRACE( "Hex.UI.TutorialOverlay#Hide", this ); }
-
-                DG.Tweening.DOTween.Kill(this.canvasGroup);
-                DG.Tweening.TweenSettingsExtensions.OnComplete(DG.Tweening.Core.TweenerCore$3(System.Single,System.Single,DG.Tweening.Plugins.Options.FloatOptions), DG.Tweening.DOTweenModuleUI.DOFade(this.canvasGroup, 0.0, duration), Bridge.fn.bind(this, function () {
-                    this.gameObject.SetActive(false);
-                }));
-            },
-            /*Hex.UI.TutorialOverlay.Hide end.*/
-
-            /*Hex.UI.TutorialOverlay.PositionHole start.*/
-            PositionHole: function (hole, worldPos) {
-if ( TRACE ) { TRACE( "Hex.UI.TutorialOverlay#PositionHole", this ); }
-
-                hole.pivot = new pc.Vec2( 0.5, 0.5 );
-                var screenPos = this._camera.WorldToScreenPoint(worldPos);
-                hole.position = new pc.Vec3( screenPos.x, screenPos.y, 0.0 );
-            },
-            /*Hex.UI.TutorialOverlay.PositionHole end.*/
-
-
-        }
-    });
-    /*Hex.UI.TutorialOverlay end.*/
 
     /*Hex.Utils.HexCoordinates start.*/
     Bridge.define("Hex.Utils.HexCoordinates", {
@@ -5722,12 +5746,8 @@ Bridge.rValue(                obj).gameObject.SetActive(false);
     $m("Hex.UI.PackshotScreen", function () { return {"att":1048577,"a":2,"m":[{"a":2,"isSynthetic":true,"n":".ctor","t":1,"sn":"ctor"},{"a":1,"n":"Awake","t":8,"sn":"Awake","rt":$n[0].Void},{"a":1,"n":"OnClick","t":8,"sn":"OnClick","rt":$n[0].Void},{"a":2,"n":"Show","t":8,"pi":[{"n":"delay","pt":$n[0].Single,"ps":0},{"n":"fadeDuration","pt":$n[0].Single,"ps":1}],"sn":"Show","rt":$n[0].Void,"p":[$n[0].Single,$n[0].Single]},{"at":[new UnityEngine.SerializeFieldAttribute()],"a":1,"n":"canvasGroup","t":4,"rt":$n[2].CanvasGroup,"sn":"canvasGroup"},{"at":[new UnityEngine.SerializeFieldAttribute()],"a":1,"n":"clickArea","t":4,"rt":$n[4].Button,"sn":"clickArea"}]}; }, $n);
     /*Hex.UI.PackshotScreen end.*/
 
-    /*Hex.UI.TutorialOverlay start.*/
-    $m("Hex.UI.TutorialOverlay", function () { return {"att":1048577,"a":2,"m":[{"a":2,"isSynthetic":true,"n":".ctor","t":1,"sn":"ctor"},{"a":1,"n":"Awake","t":8,"sn":"Awake","rt":$n[0].Void},{"a":2,"n":"Hide","t":8,"pi":[{"n":"duration","pt":$n[0].Single,"ps":0}],"sn":"Hide","rt":$n[0].Void,"p":[$n[0].Single]},{"a":1,"n":"PositionHole","t":8,"pi":[{"n":"hole","pt":$n[2].RectTransform,"ps":0},{"n":"worldPos","pt":$n[2].Vector3,"ps":1}],"sn":"PositionHole","rt":$n[0].Void,"p":[$n[2].RectTransform,$n[2].Vector3]},{"a":2,"n":"Show","t":8,"pi":[{"n":"duration","pt":$n[0].Single,"ps":0}],"sn":"Show","rt":$n[0].Void,"p":[$n[0].Single]},{"a":1,"n":"_camera","t":4,"rt":$n[2].Camera,"sn":"_camera"},{"a":1,"n":"_positioned","t":4,"rt":$n[0].Boolean,"sn":"_positioned","box":function ($v) { return Bridge.box($v, System.Boolean, System.Boolean.toString);}},{"at":[new UnityEngine.SerializeFieldAttribute()],"a":1,"n":"canvasGroup","t":4,"rt":$n[2].CanvasGroup,"sn":"canvasGroup"},{"at":[new UnityEngine.SerializeFieldAttribute()],"a":1,"n":"holeStack","t":4,"rt":$n[2].RectTransform,"sn":"holeStack"},{"at":[new UnityEngine.SerializeFieldAttribute()],"a":1,"n":"holeTarget","t":4,"rt":$n[2].RectTransform,"sn":"holeTarget"},{"at":[new UnityEngine.SerializeFieldAttribute()],"a":1,"n":"worldReferenceStack","t":4,"rt":$n[2].Transform,"sn":"worldReferenceStack"},{"at":[new UnityEngine.SerializeFieldAttribute()],"a":1,"n":"worldReferenceTarget","t":4,"rt":$n[2].Transform,"sn":"worldReferenceTarget"}]}; }, $n);
-    /*Hex.UI.TutorialOverlay end.*/
-
     /*Hex.Luna.LunaIntegration start.*/
-    $m("Hex.Luna.LunaIntegration", function () { return {"att":1048961,"a":2,"s":true,"m":[{"a":2,"n":"GameEnded","is":true,"t":8,"sn":"GameEnded","rt":$n[0].Void},{"a":2,"n":"InstallFullGame","is":true,"t":8,"sn":"InstallFullGame","rt":$n[0].Void}]}; }, $n);
+    $m("Hex.Luna.LunaIntegration", function () { return {"att":1048961,"a":2,"s":true,"m":[{"a":2,"n":"ChallengeSolved","is":true,"t":8,"sn":"ChallengeSolved","rt":$n[0].Void},{"a":2,"n":"ChallengeStarted","is":true,"t":8,"sn":"ChallengeStarted","rt":$n[0].Void},{"a":2,"n":"EndcardShown","is":true,"t":8,"sn":"EndcardShown","rt":$n[0].Void},{"a":2,"n":"GameEnded","is":true,"t":8,"sn":"GameEnded","rt":$n[0].Void},{"a":2,"n":"InstallFullGame","is":true,"t":8,"sn":"InstallFullGame","rt":$n[0].Void},{"a":1,"n":"LogEvent","is":true,"t":8,"pi":[{"n":"eventName","pt":$n[0].String,"ps":0}],"sn":"LogEvent","rt":$n[0].Void,"p":[$n[0].String]},{"a":2,"n":"ReportChallengeProgress","is":true,"t":8,"pi":[{"n":"normalized","pt":$n[0].Single,"ps":0}],"sn":"ReportChallengeProgress","rt":$n[0].Void,"p":[$n[0].Single]},{"a":1,"n":"SendProgress","is":true,"t":8,"pi":[{"n":"percent","pt":$n[0].Int32,"ps":0}],"sn":"SendProgress","rt":$n[0].Void,"p":[$n[0].Int32]},{"a":1,"n":"_challengeSolvedSent","is":true,"t":4,"rt":$n[0].Boolean,"sn":"_challengeSolvedSent","box":function ($v) { return Bridge.box($v, System.Boolean, System.Boolean.toString);}},{"a":1,"n":"_challengeStartedSent","is":true,"t":4,"rt":$n[0].Boolean,"sn":"_challengeStartedSent","box":function ($v) { return Bridge.box($v, System.Boolean, System.Boolean.toString);}},{"a":1,"n":"_endcardShownSent","is":true,"t":4,"rt":$n[0].Boolean,"sn":"_endcardShownSent","box":function ($v) { return Bridge.box($v, System.Boolean, System.Boolean.toString);}},{"a":1,"n":"_gameEndedSent","is":true,"t":4,"rt":$n[0].Boolean,"sn":"_gameEndedSent","box":function ($v) { return Bridge.box($v, System.Boolean, System.Boolean.toString);}},{"a":1,"n":"_progressPercentSent","is":true,"t":4,"rt":$n[0].Int32,"sn":"_progressPercentSent","box":function ($v) { return Bridge.box($v, System.Int32);}}]}; }, $n);
     /*Hex.Luna.LunaIntegration end.*/
 
     /*Hex.Data.ColorMaterialMapping start.*/
@@ -5801,7 +5821,7 @@ Bridge.rValue(                obj).gameObject.SetActive(false);
     /*Hex.Components.HexStack end.*/
 
     /*Hex.Components.TutorialHand start.*/
-    $m("Hex.Components.TutorialHand", function () { return {"att":1048577,"a":2,"m":[{"a":2,"isSynthetic":true,"n":".ctor","t":1,"sn":"ctor"},{"a":1,"n":"Awake","t":8,"sn":"Awake","rt":$n[0].Void},{"a":2,"n":"Initialize","t":8,"pi":[{"n":"settings","pt":$n[5].GameSettings,"ps":0}],"sn":"Initialize","rt":$n[0].Void,"p":[$n[5].GameSettings]},{"a":1,"n":"LateUpdate","t":8,"sn":"LateUpdate","rt":$n[0].Void},{"a":1,"n":"RestartCoroutine","t":8,"pi":[{"n":"delay","pt":$n[0].Single,"ps":0}],"sn":"RestartCoroutine","rt":$n[9].IEnumerator,"p":[$n[0].Single]},{"a":2,"n":"RestartWithDelay","t":8,"pi":[{"n":"delay","pt":$n[0].Single,"ps":0}],"sn":"RestartWithDelay","rt":$n[0].Void,"p":[$n[0].Single]},{"a":2,"n":"StartTutorial","t":8,"sn":"StartTutorial","rt":$n[0].Void},{"a":2,"n":"StopTutorial","t":8,"sn":"StopTutorial","rt":$n[0].Void},{"a":1,"n":"TutorialLoop","t":8,"sn":"TutorialLoop","rt":$n[9].IEnumerator},{"a":1,"n":"GrabScale","is":true,"t":4,"rt":$n[0].Single,"sn":"GrabScale","box":function ($v) { return Bridge.box($v, System.Single, System.Single.format, System.Single.getHashCode);}},{"a":1,"n":"_camera","t":4,"rt":$n[2].Camera,"sn":"_camera"},{"a":1,"n":"_loopCoroutine","t":4,"rt":$n[2].Coroutine,"sn":"_loopCoroutine"},{"a":1,"n":"_settings","t":4,"rt":$n[5].GameSettings,"sn":"_settings"},{"a":1,"n":"_stopped","t":4,"rt":$n[0].Boolean,"sn":"_stopped","box":function ($v) { return Bridge.box($v, System.Boolean, System.Boolean.toString);}},{"at":[new UnityEngine.SerializeFieldAttribute()],"a":1,"n":"handRenderer","t":4,"rt":$n[2].SpriteRenderer,"sn":"handRenderer"},{"at":[new UnityEngine.SerializeFieldAttribute()],"a":1,"n":"overlay","t":4,"rt":$n[8].TutorialOverlay,"sn":"overlay"},{"at":[new UnityEngine.SerializeFieldAttribute()],"a":1,"n":"pointStack","t":4,"rt":$n[2].Transform,"sn":"pointStack"},{"at":[new UnityEngine.SerializeFieldAttribute()],"a":1,"n":"pointTarget","t":4,"rt":$n[2].Transform,"sn":"pointTarget"}]}; }, $n);
+    $m("Hex.Components.TutorialHand", function () { return {"att":1048577,"a":2,"m":[{"a":2,"isSynthetic":true,"n":".ctor","t":1,"sn":"ctor"},{"a":1,"n":"Awake","t":8,"sn":"Awake","rt":$n[0].Void},{"a":2,"n":"Initialize","t":8,"pi":[{"n":"settings","pt":$n[5].GameSettings,"ps":0}],"sn":"Initialize","rt":$n[0].Void,"p":[$n[5].GameSettings]},{"a":1,"n":"LateUpdate","t":8,"sn":"LateUpdate","rt":$n[0].Void},{"a":1,"n":"RestartCoroutine","t":8,"pi":[{"n":"delay","pt":$n[0].Single,"ps":0}],"sn":"RestartCoroutine","rt":$n[9].IEnumerator,"p":[$n[0].Single]},{"a":2,"n":"RestartWithDelay","t":8,"pi":[{"n":"delay","pt":$n[0].Single,"ps":0}],"sn":"RestartWithDelay","rt":$n[0].Void,"p":[$n[0].Single]},{"a":2,"n":"StartTutorial","t":8,"sn":"StartTutorial","rt":$n[0].Void},{"a":2,"n":"StopTutorial","t":8,"sn":"StopTutorial","rt":$n[0].Void},{"a":1,"n":"TutorialLoop","t":8,"sn":"TutorialLoop","rt":$n[9].IEnumerator},{"a":1,"n":"GrabScale","is":true,"t":4,"rt":$n[0].Single,"sn":"GrabScale","box":function ($v) { return Bridge.box($v, System.Single, System.Single.format, System.Single.getHashCode);}},{"a":1,"n":"_camera","t":4,"rt":$n[2].Camera,"sn":"_camera"},{"a":1,"n":"_loopCoroutine","t":4,"rt":$n[2].Coroutine,"sn":"_loopCoroutine"},{"a":1,"n":"_settings","t":4,"rt":$n[5].GameSettings,"sn":"_settings"},{"a":1,"n":"_stopped","t":4,"rt":$n[0].Boolean,"sn":"_stopped","box":function ($v) { return Bridge.box($v, System.Boolean, System.Boolean.toString);}},{"at":[new UnityEngine.SerializeFieldAttribute()],"a":1,"n":"handRenderer","t":4,"rt":$n[2].SpriteRenderer,"sn":"handRenderer"},{"at":[new UnityEngine.SerializeFieldAttribute()],"a":1,"n":"pointStack","t":4,"rt":$n[2].Transform,"sn":"pointStack"},{"at":[new UnityEngine.SerializeFieldAttribute()],"a":1,"n":"pointTarget","t":4,"rt":$n[2].Transform,"sn":"pointTarget"}]}; }, $n);
     /*Hex.Components.TutorialHand end.*/
 
     /*DG.Tweening.DOTweenModuleAudio start.*/

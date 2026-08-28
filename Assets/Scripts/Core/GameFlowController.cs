@@ -5,6 +5,7 @@ using Hex.Data;
 using Hex.Utils;
 using Hex.Components;
 using Hex.UI;
+using Hex.Luna;
 
 namespace Hex.Core
 {
@@ -93,6 +94,7 @@ namespace Hex.Core
 
         void OnStackPickedUp(HexStack stack)
         {
+            LunaIntegration.ChallengeStarted();
             _reactionSystem.ResetSpeedMultiplier();
             tutorialHand?.StopTutorial();
         }
@@ -107,6 +109,7 @@ namespace Hex.Core
         {
             _hasSuccessfulPlacement = true;
             _playedStacksCount++;
+            LunaIntegration.ReportChallengeProgress((float)_playedStacksCount / gameSettings.stacksToWin);
             _reactionSystem.CheckReactions();
 
             _activePlayerStacks.Remove(stack);
@@ -165,6 +168,7 @@ namespace Hex.Core
             if (_playedStacksCount < gameSettings.stacksToWin) return;
 
             _winTriggered = true;
+            LunaIntegration.ChallengeSolved();
             _dragDropController.enabled = false;
             packshotScreen?.Show(gameSettings.packshotDelay, gameSettings.packshotFadeDuration);
         }

@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Hex.sln"
+    "dotnet.defaultSolution": "Hex_Test_Project.sln"
 }

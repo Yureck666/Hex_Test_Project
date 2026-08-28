@@ -20,6 +20,7 @@ namespace Hex.UI
         public void Show(float delay, float fadeDuration)
         {
             gameObject.SetActive(true);
+            LunaIntegration.EndcardShown();
             LunaIntegration.GameEnded();
             canvasGroup.DOFade(1f, fadeDuration).SetDelay(delay);
         }

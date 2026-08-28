@@ -9,7 +9,6 @@ namespace Hex.Components
     public class TutorialHand : MonoBehaviour
     {
         [SerializeField] SpriteRenderer handRenderer;
-        [SerializeField] TutorialOverlay overlay;
         [SerializeField] Transform pointStack;
         [SerializeField] Transform pointTarget;
 
@@ -41,7 +40,6 @@ namespace Hex.Components
         public void StartTutorial()
         {
             _stopped = false;
-            overlay?.Show(0.4f);
             _loopCoroutine = StartCoroutine(TutorialLoop());
         }
 
@@ -57,7 +55,6 @@ namespace Hex.Components
             _stopped = true;
             if (_loopCoroutine != null)
                 StopCoroutine(_loopCoroutine);
-            overlay?.Hide(0.3f);
             DOTween.Kill(handRenderer);
             DOTween.Kill(handRenderer.transform);
             handRenderer.DOFade(0f, 0.3f).OnComplete(() => gameObject.SetActive(false));
@@ -68,7 +65,6 @@ namespace Hex.Components
             yield return new WaitForSeconds(delay);
             if (!_stopped)
             {
-                overlay?.Show(0.4f);
                 yield return TutorialLoop();
             }
         }
